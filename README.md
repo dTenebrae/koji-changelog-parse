@@ -1,1 +1,6 @@
-# koji-changelog-parse
+### koji-changelog-parse
+
+Зависимости:  
+```
+pip install scrapy
+```
